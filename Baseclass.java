@@ -512,9 +512,6 @@ public abstract class Baseclass {
 					e.printStackTrace();
 				}
 				return destfile.getAbsolutePath();
-    			
-  
-    	
     	}
     
     
